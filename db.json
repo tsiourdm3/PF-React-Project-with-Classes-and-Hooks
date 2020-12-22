@@ -42,7 +42,6 @@
       "description": "<p>This <strong>innovative Scrum class</strong> won’t be like any other you’ve heard of, with an unconventional focus on the deeply human foundations at work in teams building stuff together.</p><p>This two-day seminar is designed to give aspiring and beginning ScrumMasters and team members the foundations of Scrum and Agile practice. Chock full of exercises, the seminar creates lasting memories and learnings you can carry through into your team so you can avoid common Agile pitfalls. The seminar is designed and taught by <strong>Jim Coplien</strong>, <strong>author of Organizational Patterns and Lean/Agile Process and Architecture Coach</strong>.</p>"
     },
     {
-      "0": "01",
       "id": "02",
       "title": "User eXperience (UX) Research",
       "imagePath": "/ui-ux.png",
@@ -59,12 +58,9 @@
       "instructors": [
         "01"
       ],
-      "description": "<p>Do you want to <strong>design products based on opinions or based on evidence</strong>?</p><p>In this course you will learn how <strong>UX research</strong> builds products that users really need, can and want to use!</p>",
-      "isOpen": true
+      "description": "<p>Do you want to <strong>design products based on opinions or based on evidence</strong>?</p><p>In this course you will learn how <strong>UX research</strong> builds products that users really need, can and want to use!</p>"
     },
     {
-      "0": "01",
-      "1": "01",
       "id": "03",
       "title": "Angular",
       "imagePath": "/angular.png",
@@ -81,8 +77,7 @@
       "instructors": [
         "01"
       ],
-      "description": "<p>This code.learn program&nbsp;covers introductory and advanced <strong>Angular</strong> topics through extensive hands-on sessions and guidance from senior developers.</p>",
-      "isOpen": true
+      "description": "<p>This code.learn program&nbsp;covers introductory and advanced <strong>Angular</strong> topics through extensive hands-on sessions and guidance from senior developers.</p>"
     },
     {
       "id": "04",
@@ -118,31 +113,29 @@
       "duration": "101 hours in total",
       "open": false,
       "instructors": [
+        "01",
         "02"
       ],
-      "description": "The core perspectives of this program will be to present, explore and adequately cover with extended real-life business case studies & industry scenarios",
-      "isOpen": true
+      "description": "The core perspectives of this program will be to present, explore and adequately cover with extended real-life business case studies & industry scenarios"
     },
     {
-      "0": "01",
       "id": "oxUgPRS",
       "title": "Python-AI & ML",
       "imagePath": "\\Python-AI-ML.jpg",
       "price": {
-        "normal": "450",
-        "early_bird": "400"
+        "normal": "350",
+        "early_bird": "200"
       },
       "dates": {
-        "start_date": "2021-01-08",
-        "end_date": "2021-01-16"
+        "start_date": "2021-01-15",
+        "end_date": "2021-01-31"
       },
       "duration": "2 Fridays and 2 Saturdays",
       "open": true,
       "instructors": [
         "01"
       ],
-      "description": "The core perspectives of this program will be to present, explore and adequately cover extended real-life business case studies & industry scenarios",
-      "isOpen": true
+      "description": "The core perspectives of this program will be to present, explore and adequately cover extended real-life business case studies & industry scenarios"
     }
   ],
   "instructors": [
